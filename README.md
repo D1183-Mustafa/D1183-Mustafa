@@ -7,9 +7,12 @@
 
 
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 👯 I’m looking to collaborate on Python, HTML, CSS, JavaScript
+🏠 I’m currently living at HCM City, Vietnam 🇻🇳.
+👨‍💻 I’m currently working as a Full-stack Developer.
+🔭 I’m currently working on my pet projects.
+🌱 I’m currently learning English 🤦‍♂.
+☕️ I’m coffeer.
+⚡ Bla bla bla...
 
 
 
