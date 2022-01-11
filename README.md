@@ -7,8 +7,8 @@
 
 
 
-🏠 I’m currently living at HCM City, Vietnam 🇻🇳.
-👨‍💻 I’m currently working as a Full-stack Developer.
+<p>🏠 I’m currently living at Ankara, in Turkey</p>
+<p>👨‍💻 I’m currently working as a Full-stack Developer.</p>
 🔭 I’m currently working on my pet projects.
 🌱 I’m currently learning English 🤦‍♂.
 ☕️ I’m coffeer.
