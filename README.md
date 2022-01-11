@@ -9,10 +9,10 @@
 
 <p>🏠 I’m currently living at Ankara, in Turkey</p>
 <p>👨‍💻 I’m currently working as a Full-stack Developer.</p>
-🔭 I’m currently working on my pet projects.
-🌱 I’m currently learning English 🤦‍♂.
-☕️ I’m coffeer.
-⚡ Bla bla bla...
+<p>🔭 I’m currently working on my pet projects.</p>
+<p>🌱 I’m currently learning English 🤦‍♂.</p>
+<p>☕️ I’m coffeer.</p>
+<p>⚡ Bla bla bla...</p>
 
 
 
