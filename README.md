@@ -8,12 +8,28 @@
 
 
 <div align="center">
-  <p>🏠 I’m currently living at Ankara, in Turkey</p>
-  <p>👨‍💻 I’m currently working as a Jr. Full-stack Developer.</p>
-  <p>🔭 I’m currently working on my pet projects.</p>
-  <p>🌱 I’m currently learning English 🤦‍♂.</p>
-  <p>☕️ I’m coffeer.</p>
-  <p>⚡ Bla bla bla...</p>
+        <table>
+            <tr>
+                <td>🏠 I’m currently living at Ankara, in Turkey</td>
+            </tr>
+            <tr>
+                <td><p>👨‍💻 I’m currently working as a Jr. Full-stack Developer.</td>
+            </tr>
+            <tr>
+                <td>
+                    🔭 I’m currently working on my pet projects.
+                </td>
+            </tr>
+            <tr>
+                <td>🌱 I’m currently learning English 🤦‍♂.</td>
+            </tr>
+            <tr>
+                <td>☕️ I’m coffeer.</td>
+            </tr>
+            <tr>
+                <td>⚡ Bla bla bla...</td>
+            </tr>
+        </table>
 </div>
 <br>
 
