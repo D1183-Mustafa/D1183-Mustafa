@@ -31,6 +31,70 @@
             </tr>
         </table>
 </div>
+    <table>
+      <tr>
+        <td>
+          <h5 width="100%">HTML-CSS Project</h5>
+          <br />
+          <ul>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS-Sat-s-sozlesmesi/"
+                target="_blank"
+                >HTML-CSS-Satış-sozlesmesi-Project</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS-Form-Doldurma/"
+                target="_blank"
+                >HTML-CSS_Form-Project</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS-AV-Form/"
+                target="_blank"
+                >HTML-CSS_AVM_Form_Project</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS_Netflix_Form_project/"
+                target="_blank"
+                >HTML-CSS_Netflix_Form_project</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS_Malcolm_X_Project/"
+                target="_blank"
+                >HTML-CSS_Malcolm_X_Project</a
+              >
+            </li>
+          </ul>
+        </td>
+        <td>
+          <h5>HTML-CSS-JavaSript Project</h5>
+          <br />
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </td>
+        <td>
+            <h5>Python Project</h5>
+          <ul>
+           <li></li>
+           <li></li>
+           <li></li>
+           <li></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
 <br>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
