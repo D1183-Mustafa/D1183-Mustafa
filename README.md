@@ -31,10 +31,10 @@
             </tr>
         </table>
 </div>
-    <table>
+    <table align=center>
       <tr>
         <td>
-          <h5 width="100%">HTML-CSS Project</h5>
+          <h5>HTML-CSS Project</h5>
           <br />
           <ul>
             <li>
@@ -86,11 +86,50 @@
         </td>
         <td>
             <h5>Python Project</h5>
+          <br /> 
           <ul>
-           <li></li>
-           <li></li>
-           <li></li>
-           <li></li>
+            <li>
+              <a
+                href="https://github.com/D1183-Mustafa/Python-Projelerim/blob/main/%C3%A7ay-kahve%20makinesi.ipynb"
+                target="_blank"
+                >Python_çay_kahve_Mak</a
+              >
+            </li>
+              <li>
+              <a
+                href="https://github.com/D1183-Mustafa/Python-Projelerim/blob/main/4%20islem%20oyunu.ipynb"
+                target="_blank"
+                >Python_4_işlem_oyunu</a
+              >
+            </li>
+             <li>
+              <a
+                href="https://github.com/D1183-Mustafa/Python-Projelerim/blob/main/Mors%20Alfabesi.ipynb"
+                target="_blank"
+                >Python_Mors_alfabesi</a
+              >
+            </li>
+             <li>
+              <a
+                href="https://github.com/D1183-Mustafa/Python-Projelerim/blob/main/Tasnifleme.ipynb"
+                target="_blank"
+                >Python_Tasnifleme</a
+              >
+            </li>
+              <li>
+              <a
+                href="https://github.com/D1183-Mustafa/Python-Projelerim/blob/main/%C3%96grenci%20Not%20Ortalamasi%20Hesaplama.ipynb"
+                target="_blank"
+                >Python_Öğrenci_Not_Ortalaması</a
+              >
+            </li>
+             <li>
+              <a
+                href="https://github.com/D1183-Mustafa/Python-Projelerim/blob/main/piyango%20oyunu.ipynb"
+                target="_blank"
+                >Python_Piyango_Oyunu</a
+              >
+            </li>
           </ul>
         </td>
       </tr>
