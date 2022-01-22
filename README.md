@@ -44,6 +44,13 @@
                 >HTML-CSS-Satış-sozlesmesi-Project</a
               >
             </li>
+             <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS-float-learning/"
+                target="_blank"
+                >HTML-CSS-float-learning</a
+              >
+            </li>
             <li>
               <a
                 href="https://d1183-mustafa.github.io/HTML-CSS-Form-Doldurma/"
