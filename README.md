@@ -93,6 +93,13 @@
                 >HTML-CSS_Google_Chrome_Project</a
               >
             </li>
+              <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS_Blog_Sayfas-_Project/"
+                target="_blank"
+                >HTML-CSS_Blog_Sayfasi_Projectt</a
+              >
+            </li>
           </ul>
         </td>
         <td>
