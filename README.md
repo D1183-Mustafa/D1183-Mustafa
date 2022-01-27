@@ -100,6 +100,13 @@
                 >HTML-CSS_Blog_Sayfasi_Projectt</a
               >
             </li>
+              <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML-CSS-Wellness_site_Project__/"
+                target="_blank"
+                >HTML-CSS-Wellness_site_Project</a
+              >
+            </li>
           </ul>
         </td>
         <td>
