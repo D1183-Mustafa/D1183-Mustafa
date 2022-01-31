@@ -114,6 +114,13 @@
                 >HTML-CSS-Media_Query_Learning</a
               >
             </li>
+             <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_Parallax-Website_Responsive_Working/"
+                target="_blank"
+                >HTML_CSS_Parallax-Website_Responsive_Working</a
+              >
+            </li>
           </ul>
         </td>
         <td>
