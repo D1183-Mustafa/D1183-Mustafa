@@ -121,6 +121,13 @@
                 >HTML_CSS_Parallax-Website_Responsive_Working</a
               >
             </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_HOUSING_PROJECT/"
+                target="_blank"
+                >HTML_CSS_HOUSING_PROJECT</a
+              >
+            </li>
           </ul>
         </td>
         <td>
