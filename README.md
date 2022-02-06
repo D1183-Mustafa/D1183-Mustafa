@@ -128,6 +128,13 @@
                 >HTML_CSS_HOUSING_PROJECT</a
               >
             </li>
+             <li>
+              <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_CheckOut_project/"
+                target="_blank"
+                >HTML_CSS_CheckOut_project</a
+              >
+            </li>
           </ul>
         </td>
         <td>
