@@ -1,7 +1,7 @@
 <hr>
 <p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/banner-welcome.gif" width="1000px" height="100px"></p>
 <hr>
-<p align="center"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/ba%C5%9Fl%C4%B1k.gif" width="250px" height="100px"><br><br><br>Hello,Im'Mustafa</p>
+<p align="center"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/ba%C5%9Fl%C4%B1k.gif" width="250px" height="100px"><br><br><br>Hello,Im'Mustafa ::))</p>
 
 
 
