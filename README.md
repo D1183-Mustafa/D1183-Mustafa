@@ -147,8 +147,14 @@
                 target="_blank"
                 >DOM_Event_appendchild_project</a
               >
-            </li> 
-            <li></li>
+            </li>
+            <li>
+               <a
+                href="https://d1183-mustafa.github.io/DOM_EVENT_listeye_ekleme_--karma/#"
+                target="_blank"
+                >DOM_EVENT_listeye_ekleme_çıkarma</a
+              >  
+            </li>
             <li></li>
             <li></li>
           </ul>
