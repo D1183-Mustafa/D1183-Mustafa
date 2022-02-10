@@ -162,7 +162,13 @@
                 >HTML_CSS_JS_Exact_Age_Calculator</a
               >  
             </li>
-            <li></li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_SCORE_PROJECT/"
+                target="_blank"
+                >HTML_CSS_JS_SCORE_PROJECT</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
