@@ -176,6 +176,13 @@
                 >HTML_CSS_JS_SCORE_PROJECT</a
               >   
             </li>
+             <li>
+                <a
+                href="https://d1183-mustafa.github.io/DoM_EvenT_-VKi_Project/"
+                target="_blank"
+                >DoM_EvenT_-VKi_Project</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
