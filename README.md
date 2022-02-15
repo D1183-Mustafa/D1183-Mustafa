@@ -196,7 +196,14 @@
                 target="_blank"
                 >HTML_CSS_Find-the-Number-Game</a
               >   
-            </li>   
+            </li>  
+             <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_Lottery-Game/"
+                target="_blank"
+                >HTML_CSS_JS_Lottery-Game</a
+              >   
+            </li>  
           </ul>
         </td>
         <td>
