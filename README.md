@@ -203,6 +203,13 @@
                 target="_blank"
                 >HTML_CSS_JS_Lottery-Game</a
               >   
+            </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS-To-Do-App/"
+                target="_blank"
+                >HTML_CSS_JS-To-Do-App</a
+              >   
             </li>  
           </ul>
         </td>
