@@ -217,7 +217,14 @@
                 target="_blank"
                 >HTML_CSS_JS-To-Do-App</a
               >   
-            </li>  
+            </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_CheckOut_project/"
+                target="_blank"
+                >HTML_CSS_JS_CheckOut_project</a
+              >   
+            </li> 
           </ul>
         </td>
         <td>
