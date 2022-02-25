@@ -240,6 +240,13 @@
                 >HTML_CSS_JS_Filmleri_Arayüze_Ekleme</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/005-Checkout_Page/"
+                target="_blank"
+                >HTML_CSS_JS_Checkout_Page_version-2</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
