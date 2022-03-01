@@ -261,6 +261,13 @@
                 >HTML_CSS_JS_Book-List-with-Classes</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/Pokemon_Slider_project/"
+                target="_blank"
+                >HTML_SCSS_JS_Pokemon_Slider_project</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
