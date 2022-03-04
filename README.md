@@ -268,6 +268,13 @@
                 >HTML_SCSS_JS_Pokemon_Slider_project</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_Digital_Clock/"
+                target="_blank"
+                >HTML_CSS_JS_Digital_Clock</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
