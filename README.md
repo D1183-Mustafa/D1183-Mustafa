@@ -282,6 +282,13 @@
                 >HTML_CSS_JS_Team_Members</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_Fetch_api_exchange/"
+                target="_blank"
+                >HTML_CSS_JS_Fetch_api_exchange</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
