@@ -303,6 +303,13 @@
                 >HTML_CSS_JS_GitHub_User_Card</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_WEATHER_APP/"
+                target="_blank"
+                >HTML_CSS_JS_WEATHER_APP</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
