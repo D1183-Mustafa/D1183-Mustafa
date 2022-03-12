@@ -310,6 +310,13 @@
                 >HTML_CSS_JS_WEATHER_APP</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_Movie_app/"
+                target="_blank"
+                >HTML_CSS_JS_Movie_app</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
