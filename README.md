@@ -317,6 +317,13 @@
                 >HTML_CSS_JS_Movie_app</a
               >   
             </li>
+            <li>
+                <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_Country_Card/"
+                target="_blank"
+                >HTML_CSS_JS_Country_Card</a
+              >   
+            </li>
           </ul>
         </td>
         <td>
