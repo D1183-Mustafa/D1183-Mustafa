@@ -330,8 +330,7 @@
                 target="_blank"
                 >HTML_CSS_JS_Country_Card</a
               >   
-            </li>
-           
+                  </li>
           </ul>
         </td>
         <td>
