@@ -291,6 +291,13 @@
             </li>
             <li>
                 <a
+                href="https://d1183-mustafa.github.io/HTML_CSS_JS_COLORS/"
+                target="_blank"
+                >HTML_CSS_JS_COLORS</a
+              >   
+            </li>
+            <li>
+                <a
                 href="https://d1183-mustafa.github.io/HTML_CSS_JS_Fetch_api_exchange/"
                 target="_blank"
                 >HTML_CSS_JS_Fetch_api_exchange</a
@@ -324,6 +331,7 @@
                 >HTML_CSS_JS_Country_Card</a
               >   
             </li>
+           
           </ul>
         </td>
         <td>
