@@ -17,11 +17,6 @@
                 <td><p>👨‍💻 I’m currently working as a Jr. Full-stack Developer.</td>
             </tr>
             <tr>
-                <td>
-                    🔭 I’m currently working on my pet projects.
-                </td>
-            </tr>
-            <tr>
                 <td>🌱 I’m currently learning English 🤦‍♂.</td>
             </tr>
             <tr>
