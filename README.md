@@ -414,6 +414,21 @@
       </tr>
     </table>
 <br>
+<table align = center>
+    <tr>
+        <td>
+                      <h5>React Çalışmaları</h5>
+            <ol>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/React_Static_Clock/"
+                target="_blank"
+                   >React_Static_Clock</a>
+                </li>
+            </ol>
+        </td>
+    </tr>
+</table>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 <p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/tools2.png"></p>
