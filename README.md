@@ -425,6 +425,12 @@
                 target="_blank"
                    >React_Static_Clock</a>
                 </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/tour-places/"
+                target="_blank"
+                   >tour-places</a>
+                </li>
             </ol>
         </td>
     </tr>
