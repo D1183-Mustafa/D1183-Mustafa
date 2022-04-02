@@ -461,6 +461,12 @@
                 target="_blank"
                    >router_working</a>
                 </li>
+                <li>
+                <a
+                href="https://altas-random-user-app.netlify.app/"
+                target="_blank"
+                   >random-user-app</a>
+                </li>
             </ol>
         </td>
     </tr>
