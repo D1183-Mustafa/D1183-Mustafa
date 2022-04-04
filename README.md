@@ -409,13 +409,7 @@
                 >Python_Piyango_Oyunu</a
               >
             </li>
-           <li>
-              <a
-                href="https://register-page-altas.netlify.app/"
-                target="_blank"
-                >register-page-formik</a
-              >
-            </li>
+           
           </ul>
         </td>
       </tr>
@@ -480,6 +474,13 @@
                 target="_blank"
                    >product_Routes_Project</a>
                 </li>
+                <li>
+              <a
+                href="https://register-page-altas.netlify.app/"
+                target="_blank"
+                >register-page-formik</a
+              >
+            </li>
             </ol>
         </td>
     </tr>
