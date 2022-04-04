@@ -408,8 +408,7 @@
                 target="_blank"
                 >Python_Piyango_Oyunu</a
               >
-            </li>
-           
+              </li>
           </ul>
         </td>
       </tr>
