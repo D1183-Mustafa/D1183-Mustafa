@@ -487,6 +487,13 @@
                 >recipes-sites</a
               >
             </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/random-user-2/"
+                target="_blank"
+                >random-user-2</a
+              >
+            </li>
             </ol>
         </td>
     </tr>
