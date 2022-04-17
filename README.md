@@ -494,6 +494,13 @@
                 >random-user-2</a
               >
             </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/crypto-coins/"
+                target="_blank"
+                >crypto-coins</a
+              >
+            </li>
             </ol>
         </td>
     </tr>
