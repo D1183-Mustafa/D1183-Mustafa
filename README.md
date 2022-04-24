@@ -501,6 +501,13 @@
                 >crypto-coins</a
               >
             </li>
+            <li>
+              <a
+                href="https://mustafa-altas-myblog-app.netlify.app/"
+                target="_blank"
+                >My Fire Blog</a
+              >
+            </li>
             </ol>
         </td>
     </tr>
