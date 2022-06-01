@@ -509,7 +509,7 @@
             </li>
             <li>
               <a
-                href="https://d1183-mustafa.github.io/paramolsadabenalsam-altas"
+                href="https://paramolsadabenalsam.netlify.app/"
                 target="_blank"
                 >My E-Commarce Site</a
               >
