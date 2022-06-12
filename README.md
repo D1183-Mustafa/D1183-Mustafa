@@ -26,7 +26,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 <hr>
-<p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/banner-welcome.gif" width="1000px" height="100px"></p> <br>
 
 <hr>
 <p align="center"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/ba%C5%9Fl%C4%B1k.gif" width="250px" height="100px"><br><br><br>Hello,Im'Mustafa ::))</p>
@@ -541,5 +540,5 @@
 </a>
 </p>
 
-<p align="right"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/kedi.gif" width="70px"> <img src="https://komarev.com/ghpvc/?username=D1183-Mustafa"            alt="D1183-Mustafa" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=D1183-Mustafa"            alt="D1183-Mustafa" /> </p>
 
