@@ -52,6 +52,119 @@
                 <td>⚡ Bla bla bla...</td>
             </tr>
         </table>
+    
+<table align = center>
+    <tr>
+        <td>
+                      <h5>React Çalışmaları</h5>
+            <ol>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/React_Static_Clock/"
+                target="_blank"
+                   >React_Static_Clock</a>
+                </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/tour-places/"
+                target="_blank"
+                   >tour-places</a>
+                </li>
+               <li>
+                <a
+                href="https://d1183-mustafa.github.io/react-todolist/"
+                target="_blank"
+                   >react-todolist</a>
+                </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/languages-cards/"
+                target="_blank"
+                   >languages-cards</a>
+                </li>
+                <li>
+                <a
+                href="https://task-tracker-project-mustafa.netlify.app/"
+                target="_blank"
+                   >task-tracker-project</a>
+                </li>
+                <li>
+                <a
+                href="https://phonebook-mustafa.netlify.app/"
+                target="_blank"
+                   >ContactApp-PhoneBook</a>
+                </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/router_working/"
+                target="_blank"
+                   >router_working</a>
+                </li>
+                <li>
+                <a
+                href="https://altas-random-user-app.netlify.app/"
+                target="_blank"
+                   >random-user-app</a>
+                </li>
+                <li>
+                <a
+                href="https://d1183-mustafa.github.io/working-routes/"
+                target="_blank"
+                   >product_Routes_Project</a>
+                </li>
+                <li>
+              <a
+                href="https://register-page-altas.netlify.app/"
+                target="_blank"
+                >register-page-formik</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/recipes-sites/"
+                target="_blank"
+                >recipes-sites</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/random-user-2/"
+                target="_blank"
+                >random-user-2</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://d1183-mustafa.github.io/crypto-coins/"
+                target="_blank"
+                >crypto-coins</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://mustafa-altas-myblog-app.netlify.app/"
+                target="_blank"
+                >My Fire Blog</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://paramolsadabenalsam.netlify.app/"
+                target="_blank"
+                >My E-Commarce Site</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://wallids-charts-mustafa-altas.netlify.app/"
+                target="_blank"
+                >React Chart.js project</a
+              >
+            </li>
+            </ol>
+        </td>
+    </tr>
+</table>
 </div>
     <table align=center>
       <tr>
@@ -412,111 +525,7 @@
       </tr>
     </table>
 <br>
-<table align = center>
-    <tr>
-        <td>
-                      <h5>React Çalışmaları</h5>
-            <ol>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/React_Static_Clock/"
-                target="_blank"
-                   >React_Static_Clock</a>
-                </li>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/tour-places/"
-                target="_blank"
-                   >tour-places</a>
-                </li>
-               <li>
-                <a
-                href="https://d1183-mustafa.github.io/react-todolist/"
-                target="_blank"
-                   >react-todolist</a>
-                </li>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/languages-cards/"
-                target="_blank"
-                   >languages-cards</a>
-                </li>
-                <li>
-                <a
-                href="https://task-tracker-project-mustafa.netlify.app/"
-                target="_blank"
-                   >task-tracker-project</a>
-                </li>
-                <li>
-                <a
-                href="https://phonebook-mustafa.netlify.app/"
-                target="_blank"
-                   >ContactApp-PhoneBook</a>
-                </li>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/router_working/"
-                target="_blank"
-                   >router_working</a>
-                </li>
-                <li>
-                <a
-                href="https://altas-random-user-app.netlify.app/"
-                target="_blank"
-                   >random-user-app</a>
-                </li>
-                <li>
-                <a
-                href="https://d1183-mustafa.github.io/working-routes/"
-                target="_blank"
-                   >product_Routes_Project</a>
-                </li>
-                <li>
-              <a
-                href="https://register-page-altas.netlify.app/"
-                target="_blank"
-                >register-page-formik</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://d1183-mustafa.github.io/recipes-sites/"
-                target="_blank"
-                >recipes-sites</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://d1183-mustafa.github.io/random-user-2/"
-                target="_blank"
-                >random-user-2</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://d1183-mustafa.github.io/crypto-coins/"
-                target="_blank"
-                >crypto-coins</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://mustafa-altas-myblog-app.netlify.app/"
-                target="_blank"
-                >My Fire Blog</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://paramolsadabenalsam.netlify.app/"
-                target="_blank"
-                >My E-Commarce Site</a
-              >
-            </li>
-            </ol>
-        </td>
-    </tr>
-</table>
+
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 <p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/tools2.png"></p>
